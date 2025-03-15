@@ -669,6 +669,17 @@
 			(uuid "06b61b0d-2e94-4aae-90f3-346855a0b66a")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MX_Solderable:MX-Solderable-1.5U"
 		(layer "F.Cu")
@@ -888,6 +899,17 @@
 			(uuid "d72251e5-cf5b-4228-8a3e-429f8c66a53b")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -1365,6 +1387,17 @@
 			(uuid "d2e5f2bc-5ff0-43df-9ad9-64586d9dd765")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -4142,6 +4175,17 @@
 			(uuid "f65c886d-ee85-4494-b32b-2520c27d11c2")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -8730,6 +8774,17 @@
 			(uuid "4c096be5-79d6-447c-81c9-99ab93503e7c")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -9639,6 +9694,17 @@
 			(uuid "8ea68cf7-5259-4665-8813-a0cf374c4f06")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -10778,6 +10844,17 @@
 			(uuid "06fc6c33-0ad9-400a-b410-228f193160c9")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MX_Solderable:MX-Solderable-2.25U"
 		(layer "F.Cu")
@@ -11025,6 +11102,17 @@
 			(uuid "f0e3e90d-701c-4a69-87ca-1d09c8cc7ced")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -12413,7 +12501,7 @@
 		(property "Reference" "SW31"
 			(at 0 3.175 0)
 			(layer "F.SilkS")
-			(uuid "5eee73e9-b1e5-450e-ab2a-f70e535e4b9e")
+			(uuid "35f32933-1a79-4629-90c7-43a75c180533")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -12424,7 +12512,7 @@
 		(property "Value" "SW_Push"
 			(at 0 -7.9375 0)
 			(layer "F.SilkS")
-			(uuid "519d8c06-3326-46b1-9884-bebea141da69")
+			(uuid "3f25f8b6-c390-4cdf-9113-aef77d3ef700")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -12436,7 +12524,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c0a003ee-db91-461d-a303-7235cf5c75f5")
+			(uuid "73e36c4a-4719-47ce-b642-5ec5b71e7fb8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12448,7 +12536,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c84bd20d-be04-4fc2-9808-9b617079b502")
+			(uuid "41317b61-c1a2-40cd-a42e-80e84e245d82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12624,6 +12712,17 @@
 			(uuid "8ce9b08b-9efc-41d5-ad31-5df8ec1eeac5")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -13303,6 +13402,17 @@
 			(uuid "7c239dc0-aeb8-48c7-8bea-35fd2ddaf28d")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -13780,6 +13890,17 @@
 			(uuid "b2990f35-9e2f-4f5b-957f-8c26810cd3fb")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "pico:RPi_Pico_SMD_TH"
 		(layer "F.Cu")
@@ -14919,7 +15040,7 @@
 			(net 1 "ROW0")
 			(pinfunction "GPIO0")
 			(pintype "bidirectional")
-			(uuid "6ef6a92a-af3a-4257-85bc-6c9952d107be")
+			(uuid "1009eb42-4c87-4426-9ef7-d45a946ea4fb")
 		)
 		(pad "2" thru_hole oval
 			(at -8.89 -21.59)
@@ -14942,7 +15063,7 @@
 			(net 17 "ROW1")
 			(pinfunction "GPIO1")
 			(pintype "bidirectional")
-			(uuid "b3532553-49c3-42a8-8223-08179a32efea")
+			(uuid "662e2838-81a1-451d-836c-7e171c5ec970")
 		)
 		(pad "3" thru_hole rect
 			(at -8.89 -19.05)
@@ -14965,7 +15086,7 @@
 			(net 106 "unconnected-(U1-GND-Pad3)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "47f71a58-3d13-4fff-9664-501d0abce6f9")
+			(uuid "96dce2a9-dd2e-45c0-92b1-966622ac8373")
 		)
 		(pad "4" thru_hole oval
 			(at -8.89 -16.51)
@@ -14988,7 +15109,7 @@
 			(net 33 "ROW2")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
-			(uuid "1c3c9251-623d-4491-bccd-aa5e3ab63005")
+			(uuid "7c1ad948-a17b-49b2-b5dd-ec0457ee583c")
 		)
 		(pad "5" thru_hole oval
 			(at -8.89 -13.97)
@@ -15011,7 +15132,7 @@
 			(net 48 "ROW3")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
-			(uuid "4266c7ec-5748-447e-9b21-1b7d39d80668")
+			(uuid "f0da43ee-bc25-4d7d-bdf1-13ca86668aba")
 		)
 		(pad "6" thru_hole oval
 			(at -8.89 -11.43)
@@ -15034,7 +15155,7 @@
 			(net 62 "ROW4")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
-			(uuid "e9d7e72e-c81c-4c1a-a65b-30d0c77945e9")
+			(uuid "88a40f64-8e78-48de-aac0-822dc58589c8")
 		)
 		(pad "7" thru_hole oval
 			(at -8.89 -8.89)
@@ -15057,7 +15178,7 @@
 			(net 72 "COL0")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
-			(uuid "19939a6b-5338-4ae5-82d9-eed0e1039644")
+			(uuid "07c31cb2-cf8c-41ef-b69a-4aafb3ae0098")
 		)
 		(pad "8" thru_hole rect
 			(at -8.89 -6.35)
@@ -15080,7 +15201,7 @@
 			(net 108 "unconnected-(U1-GND-Pad8)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8525fd41-7f9a-4b3f-93c6-3d764aa57bf6")
+			(uuid "f81deff8-8d41-44f4-b20d-de26b333d4b0")
 		)
 		(pad "9" thru_hole oval
 			(at -8.89 -3.81)
@@ -15103,7 +15224,7 @@
 			(net 73 "COL1")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
-			(uuid "97905eb4-2e71-456b-be79-1d34c2477085")
+			(uuid "1fb459e0-5c44-4e91-a6d2-9d63b0a17778")
 		)
 		(pad "10" thru_hole oval
 			(at -8.89 -1.27)
@@ -15126,7 +15247,7 @@
 			(net 74 "COL2")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
-			(uuid "7da67a57-725a-4c9b-9375-5af1f718c9f2")
+			(uuid "456d61eb-1f0f-41ad-84bf-d0d8355d0917")
 		)
 		(pad "11" thru_hole oval
 			(at -8.89 1.27)
@@ -15149,7 +15270,7 @@
 			(net 75 "COL3")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
-			(uuid "7647b54e-6b6f-497d-b847-2821b48add2e")
+			(uuid "e7c02169-a039-4591-8add-fe2138b1ef4d")
 		)
 		(pad "12" thru_hole oval
 			(at -8.89 3.81)
@@ -15172,7 +15293,7 @@
 			(net 76 "COL4")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
-			(uuid "d880caa6-b987-4bf3-9f9c-60977dbe0730")
+			(uuid "a4596e6c-661b-4df3-981d-7b5f8e0adadc")
 		)
 		(pad "13" thru_hole rect
 			(at -8.89 6.35)
@@ -15195,7 +15316,7 @@
 			(net 104 "unconnected-(U1-GND-Pad13)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "32cd36ce-10a5-4e43-8a8e-5d0e756558b1")
+			(uuid "67cdb865-fcfc-457c-bcbb-20c71807cc2e")
 		)
 		(pad "14" thru_hole oval
 			(at -8.89 8.89)
@@ -15218,7 +15339,7 @@
 			(net 77 "COL5")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
-			(uuid "55401675-cec8-45ee-83ba-cf3322054899")
+			(uuid "8d8e303e-4529-4118-8bd1-f0c27fe0336f")
 		)
 		(pad "15" thru_hole oval
 			(at -8.89 11.43)
@@ -15241,7 +15362,7 @@
 			(net 78 "COL6")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
-			(uuid "c395dd6a-8063-4a91-9cca-571c05e933bb")
+			(uuid "b35e04d6-e461-44de-b616-b659de04439f")
 		)
 		(pad "16" thru_hole oval
 			(at -8.89 13.97)
@@ -15264,7 +15385,7 @@
 			(net 79 "COL7")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
-			(uuid "0a5e4b04-a1d6-48d0-b4fd-42921d24c7f8")
+			(uuid "6c5428a8-d21e-4bc8-990f-0ed3644a5a53")
 		)
 		(pad "17" thru_hole oval
 			(at -8.89 16.51)
@@ -15287,7 +15408,7 @@
 			(net 80 "COL8")
 			(pinfunction "GPIO13")
 			(pintype "bidirectional")
-			(uuid "5961e2e7-e510-450b-b906-bbc8d9530027")
+			(uuid "2cb78895-f9cc-4bce-8780-4f9ef9eb90a3")
 		)
 		(pad "18" thru_hole rect
 			(at -8.89 19.05)
@@ -15310,7 +15431,7 @@
 			(net 105 "unconnected-(U1-GND-Pad18)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "47c872ce-4eda-4668-9856-ccd44cc63fa5")
+			(uuid "7aab9ced-983c-4a01-a9a8-53d4552e3a37")
 		)
 		(pad "19" thru_hole oval
 			(at -8.89 21.59)
@@ -15333,7 +15454,7 @@
 			(net 81 "COL9")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
-			(uuid "a3ae66c9-592b-490c-a79b-7a1255787fa4")
+			(uuid "41969316-9e87-4f20-b8a8-9dcdc5c7884c")
 		)
 		(pad "20" thru_hole oval
 			(at -8.89 24.13)
@@ -15356,7 +15477,7 @@
 			(net 82 "COL10")
 			(pinfunction "GPIO15")
 			(pintype "bidirectional")
-			(uuid "2f3f9a08-dea2-46f3-b787-f383af7720f9")
+			(uuid "b51bae5a-7f7c-4cb5-bb96-bcaddb3a06b3")
 		)
 		(pad "21" thru_hole oval
 			(at 8.89 24.13)
@@ -15379,7 +15500,7 @@
 			(net 83 "COL11")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
-			(uuid "b9934ff9-c32e-4df2-8af3-5baa518160c0")
+			(uuid "1f398f29-7007-48fe-ba49-9786df519f10")
 		)
 		(pad "22" thru_hole oval
 			(at 8.89 21.59)
@@ -15402,7 +15523,7 @@
 			(net 84 "COL12")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional")
-			(uuid "c97b77a4-36da-4d03-9f6b-61b66d3eb345")
+			(uuid "1695a697-04c0-4fa4-ace4-0fe991b58a94")
 		)
 		(pad "23" thru_hole rect
 			(at 8.89 19.05)
@@ -15425,7 +15546,7 @@
 			(net 94 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "4ec952fa-fabe-47ba-9f85-6e2e2c3fdc78")
+			(uuid "912ac18c-2c78-4412-8023-2fdfe5788070")
 		)
 		(pad "24" thru_hole oval
 			(at 8.89 16.51)
@@ -15448,7 +15569,7 @@
 			(net 85 "COL13")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
-			(uuid "48985595-a4df-4e91-a1f9-49bbaa20d528")
+			(uuid "dea69d1f-dc35-4387-aae2-4d8a28037779")
 		)
 		(pad "25" thru_hole oval
 			(at 8.89 13.97)
@@ -15471,7 +15592,7 @@
 			(net 86 "COL14")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
-			(uuid "b7976c1e-c831-4e98-8785-188e19163680")
+			(uuid "8ebbf655-9024-4824-8247-433aefff4e5d")
 		)
 		(pad "26" thru_hole oval
 			(at 8.89 11.43)
@@ -15494,7 +15615,7 @@
 			(net 99 "unconnected-(U1-GPIO20-Pad26)")
 			(pinfunction "GPIO20")
 			(pintype "bidirectional")
-			(uuid "5cd356f3-a76d-43ca-9954-750d8d92b065")
+			(uuid "8f46e99a-f75d-4e4a-87d8-f8a0c760a70f")
 		)
 		(pad "27" thru_hole oval
 			(at 8.89 8.89)
@@ -15517,7 +15638,7 @@
 			(net 88 "unconnected-(U1-GPIO21-Pad27)")
 			(pinfunction "GPIO21")
 			(pintype "bidirectional")
-			(uuid "08b808c5-f2dd-4dae-9ff8-946d05a16b50")
+			(uuid "da74b170-71e9-43a4-8ee4-102044194cd4")
 		)
 		(pad "28" thru_hole rect
 			(at 8.89 6.35)
@@ -15540,7 +15661,7 @@
 			(net 103 "unconnected-(U1-GND-Pad28)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "313b6d5a-d195-47b8-a251-fcddb9fae562")
+			(uuid "aa8a438c-222c-4fdb-8f65-94df57a54d7d")
 		)
 		(pad "29" thru_hole oval
 			(at 8.89 3.81)
@@ -15563,7 +15684,7 @@
 			(net 89 "unconnected-(U1-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
 			(pintype "bidirectional")
-			(uuid "76ada2a7-a083-4798-a67c-72576a901d24")
+			(uuid "80ce7962-a1e6-47ec-965a-3aaeee3e0631")
 		)
 		(pad "30" thru_hole oval
 			(at 8.89 1.27)
@@ -15586,7 +15707,7 @@
 			(net 87 "unconnected-(U1-RUN-Pad30)")
 			(pinfunction "RUN")
 			(pintype "input")
-			(uuid "03aa4c38-3fc2-49e0-be1c-d1a3fb84c089")
+			(uuid "696bcefb-602f-43d9-8539-34fe7e0f11ad")
 		)
 		(pad "31" thru_hole oval
 			(at 8.89 -1.27)
@@ -15609,7 +15730,7 @@
 			(net 98 "unconnected-(U1-GPIO26_ADC0-Pad31)")
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional")
-			(uuid "5399c03e-c3f8-4c0a-8cd2-6ce7d043a0e2")
+			(uuid "9428f993-4d02-4d48-bac9-3fb5313aaa2c")
 		)
 		(pad "32" thru_hole oval
 			(at 8.89 -3.81)
@@ -15632,7 +15753,7 @@
 			(net 91 "unconnected-(U1-GPIO27_ADC1-Pad32)")
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional")
-			(uuid "0f8b28a5-4be1-46a8-a128-14b0a45c6422")
+			(uuid "8a248724-a87f-4a33-b0d4-aa12a2625033")
 		)
 		(pad "33" thru_hole rect
 			(at 8.89 -6.35)
@@ -15655,7 +15776,7 @@
 			(net 92 "unconnected-(U1-AGND-Pad33)")
 			(pinfunction "AGND")
 			(pintype "power_in")
-			(uuid "5b425c31-b69b-4cec-8ea5-0f96cd4452f8")
+			(uuid "c92937c5-a7bd-4ab3-b5db-0541c3a87243")
 		)
 		(pad "34" thru_hole oval
 			(at 8.89 -8.89)
@@ -15678,7 +15799,7 @@
 			(net 101 "unconnected-(U1-GPIO28_ADC2-Pad34)")
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional")
-			(uuid "a4b607c0-318d-420e-b5a9-f402b5477506")
+			(uuid "f8115667-da47-4aae-a4d2-05003eb7795d")
 		)
 		(pad "35" thru_hole oval
 			(at 8.89 -11.43)
@@ -15701,7 +15822,7 @@
 			(net 96 "unconnected-(U1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
 			(pintype "power_in")
-			(uuid "770b1d17-976f-45bc-8387-d0f9d47a680b")
+			(uuid "97151be1-a40a-47a1-837e-83e4c5fbb528")
 		)
 		(pad "36" thru_hole oval
 			(at 8.89 -13.97)
@@ -15724,7 +15845,7 @@
 			(net 93 "+3V3")
 			(pinfunction "3V3")
 			(pintype "power_in")
-			(uuid "b40694d5-4918-40e3-b735-6f57b4b943a3")
+			(uuid "e5144b34-5707-4616-b071-183cd307de60")
 		)
 		(pad "37" thru_hole oval
 			(at 8.89 -16.51)
@@ -15747,7 +15868,7 @@
 			(net 90 "unconnected-(U1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
 			(pintype "input")
-			(uuid "25b778b7-87fe-4730-a941-53498ad736ab")
+			(uuid "d9883179-8f58-4bef-9ea0-868c7836cfb0")
 		)
 		(pad "38" thru_hole rect
 			(at 8.89 -19.05)
@@ -15770,7 +15891,7 @@
 			(net 109 "unconnected-(U1-GND-Pad38)")
 			(pinfunction "GND")
 			(pintype "bidirectional")
-			(uuid "b4d48e3e-e26b-4518-8b8f-2b756f7f41e2")
+			(uuid "221cd1ad-a774-4154-9341-8d31a102535a")
 		)
 		(pad "39" thru_hole oval
 			(at 8.89 -21.59)
@@ -15793,7 +15914,7 @@
 			(net 102 "unconnected-(U1-VSYS-Pad39)")
 			(pinfunction "VSYS")
 			(pintype "power_in")
-			(uuid "feddfe16-2272-4802-914d-efc37ce5ea1b")
+			(uuid "5710ae06-aaf4-4d78-b5e9-660fdbd54352")
 		)
 		(pad "40" thru_hole oval
 			(at 8.89 -24.13)
@@ -15816,7 +15937,7 @@
 			(net 97 "+5V")
 			(pinfunction "VBUS")
 			(pintype "power_in")
-			(uuid "3f7b9821-c110-4664-b9eb-06a18bb33322")
+			(uuid "8f816adb-e854-4517-ac0b-33d37a5ab82f")
 		)
 		(pad "41" thru_hole oval
 			(at -2.54 23.9)
@@ -15839,7 +15960,7 @@
 			(net 95 "unconnected-(U1-SWCLK-Pad41)")
 			(pinfunction "SWCLK")
 			(pintype "input")
-			(uuid "39127a1d-f1e7-4efc-a7ec-1d0e727545b9")
+			(uuid "19e6620b-663f-4248-9e52-1c18425bbb2d")
 		)
 		(pad "42" thru_hole rect
 			(at 0 23.9)
@@ -15862,7 +15983,7 @@
 			(net 107 "unconnected-(U1-GND-Pad42)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "4a8ef22c-a2d9-42f9-b84a-efd8057a3faf")
+			(uuid "4ff2b5c4-e1f4-4e13-80a0-e9d10a01f6ac")
 		)
 		(pad "43" thru_hole oval
 			(at 2.54 23.9)
@@ -15885,18 +16006,18 @@
 			(net 100 "unconnected-(U1-SWDIO-Pad43)")
 			(pinfunction "SWDIO")
 			(pintype "bidirectional")
-			(uuid "6727dec1-8926-4831-bca2-27be8e85ad17")
+			(uuid "25da6dae-b4a6-4f11-b47b-530608d59592")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ncara/OneDrive/IoT/Tools/KiCad/RP-Pico Libraries/Pico.wrl"
+		(model "${KIPRJMOD}/libraries/Raspberry Pi Pico-R3.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 3.04)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -16118,6 +16239,17 @@
 			(uuid "6a9faca1-2786-4206-8cef-0720e8787e72")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -17257,6 +17389,17 @@
 			(uuid "ec70d53a-431e-4da4-9fe0-d5666f864ab3")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "3d:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -44166,6 +44309,17 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "dfcfee75-99b1-4eb2-9888-0c10e6d5567f")
+	)
+	(gr_circle
+		(center 26.875 110.21875)
+		(end 28.575 110.21875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "ef9a2516-4063-418b-a6dd-570fcd2ec62b")
 	)
 	(gr_line
 		(start 381 207.16875)
